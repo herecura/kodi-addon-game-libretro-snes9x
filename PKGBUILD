@@ -3,7 +3,7 @@
 pkgname=kodi-addon-game-libretro-snes9x
 pkgver=1.58.0.6
 _codename=Leia
-pkgrel=1
+pkgrel=2
 pkgdesc="Libretro wrapper for Kodi's Game API"
 arch=('x86_64')
 url='https://github.com/kodi-game/game.libretro.snes9x'
